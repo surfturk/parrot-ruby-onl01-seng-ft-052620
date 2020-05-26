@@ -2,5 +2,6 @@
 # returns the phrase
 
 def parrot(String, default = "Squawk!") 
-  
+  puts String
+  return String
 end
